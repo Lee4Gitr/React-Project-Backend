@@ -1,0 +1,6 @@
+/lib/
+/node_modules/
+/.idea/aws.xml
+/.idea/medi-weightloss-backend.iml
+/.idea/modules.xml
+/.idea/vcs.xml

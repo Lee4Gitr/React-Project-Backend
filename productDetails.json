@@ -1,0 +1,1604 @@
+{
+  "productDetails": [
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Sleek Rubber Fish",
+        "type": "partnerships"
+      },
+      "code": 0,
+      "cost": "27.00",
+      "description": "seize collaborative schemas",
+      "name": "Rustic Rubber Mouse",
+      "productType": {
+        "typeName": "communities",
+        "type": "metrics"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Unbranded Frozen Car",
+        "type": "channels"
+      },
+      "code": 1,
+      "cost": "679.00",
+      "description": "enhance plug-and-play web-readiness",
+      "name": "Handmade Fresh Computer",
+      "productType": {
+        "typeName": "content",
+        "type": "supply-chains"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Sleek Cotton Car",
+        "type": "systems"
+      },
+      "code": 2,
+      "cost": "689.00",
+      "description": "integrate best-of-breed functionalities",
+      "name": "Fantastic Soft Chicken",
+      "productType": {
+        "typeName": "convergence",
+        "type": "partnerships"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Metal Mouse",
+        "type": "vortals"
+      },
+      "code": 3,
+      "cost": "378.00",
+      "description": "benchmark seamless action-items",
+      "name": "Handmade Concrete Table",
+      "productType": {
+        "typeName": "e-commerce",
+        "type": "e-markets"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Fresh Towels",
+        "type": "ROI"
+      },
+      "code": 4,
+      "cost": "823.00",
+      "description": "implement e-business systems",
+      "name": "Gorgeous Rubber Car",
+      "productType": {
+        "typeName": "deliverables",
+        "type": "solutions"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Ergonomic Fresh Gloves",
+        "type": "partnerships"
+      },
+      "code": 5,
+      "cost": "638.00",
+      "description": "orchestrate turn-key e-services",
+      "name": "Unbranded Fresh Tuna",
+      "productType": {
+        "typeName": "e-business",
+        "type": "e-commerce"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Rustic Granite Cheese",
+        "type": "e-services"
+      },
+      "code": 6,
+      "cost": "775.00",
+      "description": "strategize leading-edge initiatives",
+      "name": "Practical Soft Pants",
+      "productType": {
+        "typeName": "systems",
+        "type": "vortals"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Refined Frozen Hat",
+        "type": "initiatives"
+      },
+      "code": 7,
+      "cost": "828.00",
+      "description": "drive strategic web services",
+      "name": "Small Fresh Bike",
+      "productType": {
+        "typeName": "technologies",
+        "type": "eyeballs"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Awesome Rubber Soap",
+        "type": "methodologies"
+      },
+      "code": 8,
+      "cost": "153.00",
+      "description": "streamline mission-critical convergence",
+      "name": "Gorgeous Wooden Bacon",
+      "productType": {
+        "typeName": "partnerships",
+        "type": "channels"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Rustic Steel Keyboard",
+        "type": "infrastructures"
+      },
+      "code": 9,
+      "cost": "657.00",
+      "description": "cultivate compelling eyeballs",
+      "name": "Handmade Soft Bike",
+      "productType": {
+        "typeName": "systems",
+        "type": "paradigms"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Awesome Frozen Bike",
+        "type": "experiences"
+      },
+      "code": 10,
+      "cost": "241.00",
+      "description": "recontextualize B2B models",
+      "name": "Rustic Wooden Salad",
+      "productType": {
+        "typeName": "experiences",
+        "type": "metrics"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Refined Frozen Sausages",
+        "type": "deliverables"
+      },
+      "code": 11,
+      "cost": "220.00",
+      "description": "harness bricks-and-clicks partnerships",
+      "name": "Sleek Cotton Soap",
+      "productType": {
+        "typeName": "action-items",
+        "type": "e-services"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Small Soft Gloves",
+        "type": "vortals"
+      },
+      "code": 12,
+      "cost": "535.00",
+      "description": "generate intuitive portals",
+      "name": "Incredible Plastic Shoes",
+      "productType": {
+        "typeName": "web services",
+        "type": "infomediaries"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Metal Chicken",
+        "type": "deliverables"
+      },
+      "code": 13,
+      "cost": "965.00",
+      "description": "matrix e-business e-business",
+      "name": "Intelligent Plastic Cheese",
+      "productType": {
+        "typeName": "platforms",
+        "type": "experiences"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Frozen Fish",
+        "type": "web-readiness"
+      },
+      "code": 14,
+      "cost": "156.00",
+      "description": "integrate end-to-end metrics",
+      "name": "Incredible Granite Sausages",
+      "productType": {
+        "typeName": "ROI",
+        "type": "users"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handcrafted Fresh Hat",
+        "type": "markets"
+      },
+      "code": 15,
+      "cost": "701.00",
+      "description": "synthesize sexy deliverables",
+      "name": "Awesome Frozen Pizza",
+      "productType": {
+        "typeName": "vortals",
+        "type": "channels"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Refined Concrete Bacon",
+        "type": "architectures"
+      },
+      "code": 16,
+      "cost": "645.00",
+      "description": "embrace user-centric communities",
+      "name": "Incredible Metal Salad",
+      "productType": {
+        "typeName": "infrastructures",
+        "type": "e-business"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Intelligent Steel Pizza",
+        "type": "technologies"
+      },
+      "code": 17,
+      "cost": "231.00",
+      "description": "incubate synergistic mindshare",
+      "name": "Unbranded Soft Shirt",
+      "productType": {
+        "typeName": "convergence",
+        "type": "supply-chains"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handcrafted Fresh Shirt",
+        "type": "content"
+      },
+      "code": 18,
+      "cost": "839.00",
+      "description": "deploy impactful interfaces",
+      "name": "Tasty Frozen Bike",
+      "productType": {
+        "typeName": "partnerships",
+        "type": "deliverables"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Intelligent Concrete Sausages",
+        "type": "e-markets"
+      },
+      "code": 19,
+      "cost": "54.00",
+      "description": "revolutionize intuitive schemas",
+      "name": "Unbranded Steel Ball",
+      "productType": {
+        "typeName": "convergence",
+        "type": "networks"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Intelligent Soft Shirt",
+        "type": "ROI"
+      },
+      "code": 20,
+      "cost": "256.00",
+      "description": "deliver user-centric infrastructures",
+      "name": "Awesome Soft Chips",
+      "productType": {
+        "typeName": "functionalities",
+        "type": "metrics"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Licensed Cotton Cheese",
+        "type": "deliverables"
+      },
+      "code": 21,
+      "cost": "9.00",
+      "description": "repurpose innovative communities",
+      "name": "Awesome Concrete Mouse",
+      "productType": {
+        "typeName": "architectures",
+        "type": "blockchains"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Small Granite Shoes",
+        "type": "e-markets"
+      },
+      "code": 22,
+      "cost": "947.00",
+      "description": "monetize vertical blockchains",
+      "name": "Sleek Fresh Fish",
+      "productType": {
+        "typeName": "niches",
+        "type": "ROI"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Soft Towels",
+        "type": "e-markets"
+      },
+      "code": 23,
+      "cost": "6.00",
+      "description": "cultivate virtual content",
+      "name": "Sleek Granite Tuna",
+      "productType": {
+        "typeName": "supply-chains",
+        "type": "portals"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Intelligent Frozen Sausages",
+        "type": "e-services"
+      },
+      "code": 24,
+      "cost": "451.00",
+      "description": "reintermediate cutting-edge partnerships",
+      "name": "Gorgeous Plastic Shirt",
+      "productType": {
+        "typeName": "technologies",
+        "type": "vortals"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Practical Steel Chair",
+        "type": "models"
+      },
+      "code": 25,
+      "cost": "740.00",
+      "description": "utilize 24/7 networks",
+      "name": "Practical Rubber Keyboard",
+      "productType": {
+        "typeName": "e-services",
+        "type": "web-readiness"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Gorgeous Soft Sausages",
+        "type": "e-business"
+      },
+      "code": 26,
+      "cost": "822.00",
+      "description": "engage clicks-and-mortar methodologies",
+      "name": "Fantastic Rubber Chicken",
+      "productType": {
+        "typeName": "partnerships",
+        "type": "convergence"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Unbranded Steel Chips",
+        "type": "eyeballs"
+      },
+      "code": 27,
+      "cost": "280.00",
+      "description": "maximize efficient users",
+      "name": "Unbranded Steel Car",
+      "productType": {
+        "typeName": "metrics",
+        "type": "e-commerce"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Fantastic Plastic Mouse",
+        "type": "vortals"
+      },
+      "code": 28,
+      "cost": "182.00",
+      "description": "synergize plug-and-play metrics",
+      "name": "Handcrafted Steel Table",
+      "productType": {
+        "typeName": "experiences",
+        "type": "e-commerce"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Generic Wooden Mouse",
+        "type": "experiences"
+      },
+      "code": 29,
+      "cost": "168.00",
+      "description": "incentivize clicks-and-mortar web services",
+      "name": "Rustic Soft Table",
+      "productType": {
+        "typeName": "networks",
+        "type": "partnerships"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handcrafted Cotton Pizza",
+        "type": "infomediaries"
+      },
+      "code": 30,
+      "cost": "562.00",
+      "description": "morph frictionless e-business",
+      "name": "Ergonomic Rubber Hat",
+      "productType": {
+        "typeName": "paradigms",
+        "type": "eyeballs"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handmade Concrete Shoes",
+        "type": "web-readiness"
+      },
+      "code": 31,
+      "cost": "230.00",
+      "description": "syndicate B2C partnerships",
+      "name": "Unbranded Concrete Tuna",
+      "productType": {
+        "typeName": "e-markets",
+        "type": "infrastructures"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handcrafted Cotton Cheese",
+        "type": "methodologies"
+      },
+      "code": 32,
+      "cost": "719.00",
+      "description": "harness value-added interfaces",
+      "name": "Unbranded Cotton Keyboard",
+      "productType": {
+        "typeName": "eyeballs",
+        "type": "e-tailers"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Tasty Wooden Table",
+        "type": "users"
+      },
+      "code": 33,
+      "cost": "798.00",
+      "description": "synthesize next-generation channels",
+      "name": "Practical Granite Bacon",
+      "productType": {
+        "typeName": "e-commerce",
+        "type": "niches"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Awesome Plastic Chair",
+        "type": "systems"
+      },
+      "code": 34,
+      "cost": "84.00",
+      "description": "matrix sticky action-items",
+      "name": "Generic Concrete Bike",
+      "productType": {
+        "typeName": "portals",
+        "type": "portals"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Fantastic Soft Tuna",
+        "type": "networks"
+      },
+      "code": 35,
+      "cost": "872.00",
+      "description": "matrix granular convergence",
+      "name": "Unbranded Soft Shirt",
+      "productType": {
+        "typeName": "users",
+        "type": "schemas"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Refined Soft Towels",
+        "type": "action-items"
+      },
+      "code": 36,
+      "cost": "338.00",
+      "description": "syndicate bleeding-edge models",
+      "name": "Handmade Plastic Sausages",
+      "productType": {
+        "typeName": "partnerships",
+        "type": "networks"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Small Concrete Pizza",
+        "type": "applications"
+      },
+      "code": 37,
+      "cost": "974.00",
+      "description": "facilitate web-enabled infrastructures",
+      "name": "Incredible Plastic Keyboard",
+      "productType": {
+        "typeName": "functionalities",
+        "type": "communities"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Metal Computer",
+        "type": "solutions"
+      },
+      "code": 38,
+      "cost": "164.00",
+      "description": "disintermediate frictionless vortals",
+      "name": "Unbranded Rubber Ball",
+      "productType": {
+        "typeName": "e-business",
+        "type": "applications"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Ergonomic Wooden Keyboard",
+        "type": "e-markets"
+      },
+      "code": 39,
+      "cost": "617.00",
+      "description": "enable killer content",
+      "name": "Refined Concrete Chicken",
+      "productType": {
+        "typeName": "functionalities",
+        "type": "initiatives"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Rubber Car",
+        "type": "communities"
+      },
+      "code": 40,
+      "cost": "607.00",
+      "description": "embrace end-to-end infomediaries",
+      "name": "Unbranded Cotton Pants",
+      "productType": {
+        "typeName": "functionalities",
+        "type": "web-readiness"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handcrafted Soft Sausages",
+        "type": "paradigms"
+      },
+      "code": 41,
+      "cost": "775.00",
+      "description": "innovate next-generation e-commerce",
+      "name": "Unbranded Wooden Hat",
+      "productType": {
+        "typeName": "infomediaries",
+        "type": "paradigms"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Rustic Wooden Chips",
+        "type": "infrastructures"
+      },
+      "code": 42,
+      "cost": "679.00",
+      "description": "matrix scalable web-readiness",
+      "name": "Licensed Wooden Tuna",
+      "productType": {
+        "typeName": "relationships",
+        "type": "convergence"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Awesome Fresh Shoes",
+        "type": "interfaces"
+      },
+      "code": 43,
+      "cost": "104.00",
+      "description": "harness enterprise users",
+      "name": "Ergonomic Steel Ball",
+      "productType": {
+        "typeName": "models",
+        "type": "users"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Gorgeous Soft Hat",
+        "type": "interfaces"
+      },
+      "code": 44,
+      "cost": "917.00",
+      "description": "scale ubiquitous web-readiness",
+      "name": "Handmade Concrete Hat",
+      "productType": {
+        "typeName": "web-readiness",
+        "type": "channels"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Ergonomic Fresh Towels",
+        "type": "infrastructures"
+      },
+      "code": 45,
+      "cost": "48.00",
+      "description": "repurpose enterprise deliverables",
+      "name": "Small Plastic Ball",
+      "productType": {
+        "typeName": "experiences",
+        "type": "niches"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handmade Granite Pants",
+        "type": "vortals"
+      },
+      "code": 46,
+      "cost": "638.00",
+      "description": "extend cutting-edge schemas",
+      "name": "Refined Plastic Bike",
+      "productType": {
+        "typeName": "bandwidth",
+        "type": "platforms"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Steel Gloves",
+        "type": "blockchains"
+      },
+      "code": 47,
+      "cost": "300.00",
+      "description": "transform frictionless convergence",
+      "name": "Sleek Granite Chicken",
+      "productType": {
+        "typeName": "schemas",
+        "type": "functionalities"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Ergonomic Wooden Gloves",
+        "type": "platforms"
+      },
+      "code": 48,
+      "cost": "791.00",
+      "description": "utilize best-of-breed interfaces",
+      "name": "Rustic Rubber Fish",
+      "productType": {
+        "typeName": "content",
+        "type": "e-markets"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Sleek Cotton Gloves",
+        "type": "deliverables"
+      },
+      "code": 49,
+      "cost": "155.00",
+      "description": "envisioneer synergistic web services",
+      "name": "Tasty Frozen Chicken",
+      "productType": {
+        "typeName": "vortals",
+        "type": "e-commerce"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handmade Fresh Hat",
+        "type": "initiatives"
+      },
+      "code": 50,
+      "cost": "256.00",
+      "description": "monetize wireless web-readiness",
+      "name": "Gorgeous Concrete Chair",
+      "productType": {
+        "typeName": "e-markets",
+        "type": "niches"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Granite Hat",
+        "type": "deliverables"
+      },
+      "code": 51,
+      "cost": "807.00",
+      "description": "expedite enterprise interfaces",
+      "name": "Tasty Wooden Towels",
+      "productType": {
+        "typeName": "paradigms",
+        "type": "paradigms"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Intelligent Wooden Chips",
+        "type": "architectures"
+      },
+      "code": 52,
+      "cost": "190.00",
+      "description": "engage robust platforms",
+      "name": "Rustic Rubber Keyboard",
+      "productType": {
+        "typeName": "metrics",
+        "type": "deliverables"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Sleek Concrete Shirt",
+        "type": "e-tailers"
+      },
+      "code": 53,
+      "cost": "615.00",
+      "description": "disintermediate proactive systems",
+      "name": "Fantastic Steel Table",
+      "productType": {
+        "typeName": "systems",
+        "type": "interfaces"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Awesome Concrete Pants",
+        "type": "technologies"
+      },
+      "code": 54,
+      "cost": "255.00",
+      "description": "enable frictionless technologies",
+      "name": "Handcrafted Soft Bike",
+      "productType": {
+        "typeName": "eyeballs",
+        "type": "e-business"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handcrafted Cotton Salad",
+        "type": "partnerships"
+      },
+      "code": 55,
+      "cost": "1.00",
+      "description": "visualize value-added infomediaries",
+      "name": "Handmade Soft Chips",
+      "productType": {
+        "typeName": "solutions",
+        "type": "infrastructures"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Generic Rubber Keyboard",
+        "type": "deliverables"
+      },
+      "code": 56,
+      "cost": "247.00",
+      "description": "implement rich mindshare",
+      "name": "Sleek Steel Ball",
+      "productType": {
+        "typeName": "solutions",
+        "type": "paradigms"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Generic Soft Salad",
+        "type": "supply-chains"
+      },
+      "code": 57,
+      "cost": "979.00",
+      "description": "evolve visionary vortals",
+      "name": "Generic Metal Keyboard",
+      "productType": {
+        "typeName": "paradigms",
+        "type": "e-markets"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Unbranded Soft Chips",
+        "type": "systems"
+      },
+      "code": 58,
+      "cost": "213.00",
+      "description": "synthesize front-end architectures",
+      "name": "Fantastic Frozen Salad",
+      "productType": {
+        "typeName": "architectures",
+        "type": "models"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Small Granite Car",
+        "type": "e-commerce"
+      },
+      "code": 59,
+      "cost": "125.00",
+      "description": "seize dynamic infrastructures",
+      "name": "Sleek Fresh Soap",
+      "productType": {
+        "typeName": "schemas",
+        "type": "web services"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Ergonomic Concrete Pants",
+        "type": "e-commerce"
+      },
+      "code": 60,
+      "cost": "198.00",
+      "description": "implement virtual relationships",
+      "name": "Small Steel Hat",
+      "productType": {
+        "typeName": "blockchains",
+        "type": "action-items"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Small Plastic Chicken",
+        "type": "synergies"
+      },
+      "code": 61,
+      "cost": "670.00",
+      "description": "enhance intuitive interfaces",
+      "name": "Unbranded Concrete Shirt",
+      "productType": {
+        "typeName": "applications",
+        "type": "supply-chains"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Refined Cotton Computer",
+        "type": "action-items"
+      },
+      "code": 62,
+      "cost": "22.00",
+      "description": "matrix user-centric applications",
+      "name": "Handmade Cotton Gloves",
+      "productType": {
+        "typeName": "schemas",
+        "type": "action-items"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Generic Wooden Table",
+        "type": "systems"
+      },
+      "code": 63,
+      "cost": "340.00",
+      "description": "syndicate transparent initiatives",
+      "name": "Small Cotton Computer",
+      "productType": {
+        "typeName": "ROI",
+        "type": "portals"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Generic Metal Hat",
+        "type": "bandwidth"
+      },
+      "code": 64,
+      "cost": "719.00",
+      "description": "implement customized interfaces",
+      "name": "Gorgeous Wooden Gloves",
+      "productType": {
+        "typeName": "partnerships",
+        "type": "e-services"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Rustic Concrete Computer",
+        "type": "mindshare"
+      },
+      "code": 65,
+      "cost": "674.00",
+      "description": "engineer visionary ROI",
+      "name": "Refined Granite Towels",
+      "productType": {
+        "typeName": "solutions",
+        "type": "synergies"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Practical Soft Pizza",
+        "type": "metrics"
+      },
+      "code": 66,
+      "cost": "580.00",
+      "description": "scale cross-platform paradigms",
+      "name": "Awesome Metal Chicken",
+      "productType": {
+        "typeName": "niches",
+        "type": "e-markets"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Tasty Plastic Gloves",
+        "type": "partnerships"
+      },
+      "code": 67,
+      "cost": "748.00",
+      "description": "brand wireless synergies",
+      "name": "Tasty Fresh Mouse",
+      "productType": {
+        "typeName": "supply-chains",
+        "type": "blockchains"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Small Metal Bike",
+        "type": "architectures"
+      },
+      "code": 68,
+      "cost": "678.00",
+      "description": "harness vertical bandwidth",
+      "name": "Sleek Steel Fish",
+      "productType": {
+        "typeName": "solutions",
+        "type": "channels"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Gorgeous Granite Fish",
+        "type": "infomediaries"
+      },
+      "code": 69,
+      "cost": "729.00",
+      "description": "iterate mission-critical platforms",
+      "name": "Licensed Plastic Pizza",
+      "productType": {
+        "typeName": "blockchains",
+        "type": "mindshare"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handmade Concrete Cheese",
+        "type": "eyeballs"
+      },
+      "code": 70,
+      "cost": "821.00",
+      "description": "visualize proactive relationships",
+      "name": "Generic Granite Chicken",
+      "productType": {
+        "typeName": "action-items",
+        "type": "ROI"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Tasty Wooden Shirt",
+        "type": "e-commerce"
+      },
+      "code": 71,
+      "cost": "802.00",
+      "description": "visualize back-end experiences",
+      "name": "Practical Soft Ball",
+      "productType": {
+        "typeName": "niches",
+        "type": "synergies"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handcrafted Metal Chair",
+        "type": "infrastructures"
+      },
+      "code": 72,
+      "cost": "792.00",
+      "description": "utilize customized applications",
+      "name": "Ergonomic Concrete Mouse",
+      "productType": {
+        "typeName": "platforms",
+        "type": "deliverables"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Gorgeous Concrete Shoes",
+        "type": "supply-chains"
+      },
+      "code": 73,
+      "cost": "730.00",
+      "description": "maximize scalable initiatives",
+      "name": "Licensed Soft Sausages",
+      "productType": {
+        "typeName": "systems",
+        "type": "schemas"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Gorgeous Soft Shoes",
+        "type": "methodologies"
+      },
+      "code": 74,
+      "cost": "418.00",
+      "description": "morph granular synergies",
+      "name": "Generic Frozen Keyboard",
+      "productType": {
+        "typeName": "methodologies",
+        "type": "e-commerce"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Small Cotton Bike",
+        "type": "portals"
+      },
+      "code": 75,
+      "cost": "766.00",
+      "description": "harness magnetic metrics",
+      "name": "Incredible Soft Hat",
+      "productType": {
+        "typeName": "networks",
+        "type": "eyeballs"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handcrafted Metal Computer",
+        "type": "platforms"
+      },
+      "code": 76,
+      "cost": "431.00",
+      "description": "e-enable clicks-and-mortar metrics",
+      "name": "Ergonomic Steel Chicken",
+      "productType": {
+        "typeName": "paradigms",
+        "type": "mindshare"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Cotton Mouse",
+        "type": "deliverables"
+      },
+      "code": 77,
+      "cost": "316.00",
+      "description": "monetize world-class e-services",
+      "name": "Fantastic Cotton Tuna",
+      "productType": {
+        "typeName": "e-business",
+        "type": "portals"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Tasty Plastic Chips",
+        "type": "initiatives"
+      },
+      "code": 78,
+      "cost": "774.00",
+      "description": "integrate value-added initiatives",
+      "name": "Unbranded Fresh Chair",
+      "productType": {
+        "typeName": "e-tailers",
+        "type": "interfaces"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Generic Granite Fish",
+        "type": "platforms"
+      },
+      "code": 79,
+      "cost": "171.00",
+      "description": "brand plug-and-play solutions",
+      "name": "Generic Rubber Cheese",
+      "productType": {
+        "typeName": "mindshare",
+        "type": "convergence"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Licensed Concrete Pants",
+        "type": "interfaces"
+      },
+      "code": 80,
+      "cost": "107.00",
+      "description": "streamline best-of-breed e-markets",
+      "name": "Handmade Soft Chips",
+      "productType": {
+        "typeName": "applications",
+        "type": "solutions"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Gorgeous Rubber Shirt",
+        "type": "methodologies"
+      },
+      "code": 81,
+      "cost": "551.00",
+      "description": "visualize interactive solutions",
+      "name": "Licensed Soft Keyboard",
+      "productType": {
+        "typeName": "portals",
+        "type": "communities"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Awesome Plastic Table",
+        "type": "applications"
+      },
+      "code": 82,
+      "cost": "998.00",
+      "description": "implement customized schemas",
+      "name": "Rustic Plastic Pizza",
+      "productType": {
+        "typeName": "markets",
+        "type": "markets"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Tasty Rubber Bacon",
+        "type": "infrastructures"
+      },
+      "code": 83,
+      "cost": "497.00",
+      "description": "deliver next-generation experiences",
+      "name": "Rustic Rubber Keyboard",
+      "productType": {
+        "typeName": "content",
+        "type": "solutions"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handcrafted Frozen Pizza",
+        "type": "e-business"
+      },
+      "code": 84,
+      "cost": "950.00",
+      "description": "envisioneer virtual initiatives",
+      "name": "Fantastic Rubber Pants",
+      "productType": {
+        "typeName": "solutions",
+        "type": "e-markets"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Intelligent Plastic Chair",
+        "type": "channels"
+      },
+      "code": 85,
+      "cost": "585.00",
+      "description": "streamline mission-critical infrastructures",
+      "name": "Sleek Rubber Ball",
+      "productType": {
+        "typeName": "channels",
+        "type": "applications"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Generic Soft Towels",
+        "type": "deliverables"
+      },
+      "code": 86,
+      "cost": "540.00",
+      "description": "transition sticky models",
+      "name": "Practical Plastic Ball",
+      "productType": {
+        "typeName": "solutions",
+        "type": "applications"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Sleek Wooden Sausages",
+        "type": "eyeballs"
+      },
+      "code": 87,
+      "cost": "809.00",
+      "description": "extend open-source niches",
+      "name": "Tasty Wooden Cheese",
+      "productType": {
+        "typeName": "schemas",
+        "type": "blockchains"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Rustic Granite Computer",
+        "type": "web-readiness"
+      },
+      "code": 88,
+      "cost": "375.00",
+      "description": "orchestrate cross-media platforms",
+      "name": "Intelligent Plastic Tuna",
+      "productType": {
+        "typeName": "systems",
+        "type": "communities"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Incredible Steel Gloves",
+        "type": "e-markets"
+      },
+      "code": 89,
+      "cost": "460.00",
+      "description": "cultivate real-time communities",
+      "name": "Handcrafted Frozen Soap",
+      "productType": {
+        "typeName": "niches",
+        "type": "portals"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Sleek Wooden Chicken",
+        "type": "users"
+      },
+      "code": 90,
+      "cost": "839.00",
+      "description": "deploy proactive e-commerce",
+      "name": "Small Fresh Computer",
+      "productType": {
+        "typeName": "blockchains",
+        "type": "content"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Awesome Cotton Pants",
+        "type": "functionalities"
+      },
+      "code": 91,
+      "cost": "403.00",
+      "description": "enable cross-media content",
+      "name": "Fantastic Rubber Shirt",
+      "productType": {
+        "typeName": "communities",
+        "type": "e-tailers"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Intelligent Metal Chair",
+        "type": "infomediaries"
+      },
+      "code": 92,
+      "cost": "715.00",
+      "description": "enhance open-source experiences",
+      "name": "Incredible Fresh Fish",
+      "productType": {
+        "typeName": "action-items",
+        "type": "web services"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Handmade Wooden Car",
+        "type": "solutions"
+      },
+      "code": 93,
+      "cost": "672.00",
+      "description": "leverage collaborative platforms",
+      "name": "Incredible Cotton Mouse",
+      "productType": {
+        "typeName": "bandwidth",
+        "type": "portals"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Intelligent Soft Pizza",
+        "type": "solutions"
+      },
+      "code": 94,
+      "cost": "563.00",
+      "description": "recontextualize impactful users",
+      "name": "Tasty Soft Chair",
+      "productType": {
+        "typeName": "partnerships",
+        "type": "action-items"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Small Metal Pizza",
+        "type": "functionalities"
+      },
+      "code": 95,
+      "cost": "250.00",
+      "description": "innovate scalable communities",
+      "name": "Incredible Soft Shirt",
+      "productType": {
+        "typeName": "mindshare",
+        "type": "mindshare"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Fantastic Metal Towels",
+        "type": "web services"
+      },
+      "code": 96,
+      "cost": "994.00",
+      "description": "architect holistic channels",
+      "name": "Handmade Cotton Sausages",
+      "productType": {
+        "typeName": "paradigms",
+        "type": "functionalities"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Sleek Plastic Car",
+        "type": "systems"
+      },
+      "code": 97,
+      "cost": "523.00",
+      "description": "strategize extensible vortals",
+      "name": "Incredible Steel Chips",
+      "productType": {
+        "typeName": "metrics",
+        "type": "partnerships"
+      },
+      "pushedProduct": false
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Unbranded Granite Hat",
+        "type": "web services"
+      },
+      "code": 98,
+      "cost": "660.00",
+      "description": "revolutionize next-generation communities",
+      "name": "Incredible Wooden Ball",
+      "productType": {
+        "typeName": "web services",
+        "type": "infrastructures"
+      },
+      "pushedProduct": true
+    },
+    {
+      "callback": "() => console.log('callback')",
+      "category": {
+        "name": "Rustic Rubber Salad",
+        "type": "web services"
+      },
+      "code": 99,
+      "cost": "63.00",
+      "description": "embrace collaborative initiatives",
+      "name": "Rustic Fresh Mouse",
+      "productType": {
+        "typeName": "infomediaries",
+        "type": "paradigms"
+      },
+      "pushedProduct": true
+    }
+  ]
+}
